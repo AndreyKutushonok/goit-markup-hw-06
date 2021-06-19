@@ -279,6 +279,7 @@ ul{
     border-radius: 0px 0px 4px 4px;
     text-align: center;
     padding-bottom: 30px;
+    background-color: var(--white);
 }
 .our-team .img{
     margin-bottom: 30px;
@@ -390,9 +391,9 @@ ul{
     height: 252px;
 }
 .footer .container{
-    height: 132px;
     padding-top: 60px;
     display: flex;
+    align-items: baseline;
 }
 .footer .join{
     font-weight: bold;
@@ -402,7 +403,7 @@ ul{
     text-transform: uppercase;
     color: var(--white);
     margin-bottom: 20px;
-    margin-top: 12px;
+
 }
 .social-link-icons .icons{
     display: flex;
@@ -447,7 +448,7 @@ ul{
     padding-bottom: 9px;
 }
 .submit-form{
-    margin-left: 83px;
+    margin-left: 93px;
 }
 .submit-form-text{
     font-weight: bold;
@@ -456,7 +457,6 @@ ul{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #FFFFFF;
-    margin-top: 12px;
     margin-bottom: 20px;
 }
 .submit-form-input{
